@@ -20,7 +20,7 @@ public class App {
         companyService.prepareCompanyList();
         orderService.prepareOrderList();
         //Factory DP Example
-        customerService.addCustomer(CustomerFactory.createCustomer(CustomerType.RETAIL,7, "Cem Dirman", 12345, "cemdirman@bootcamp", 20220615));
+        customerService.addCustomer(CustomerFactory.createCustomer(CustomerType.RETAIL, 7, "Cem Dirman", 12345, "cemdirman@bootcamp", 20220615));
         customerService.getAllCustomers();
         System.out.println("---------------");
         customerService.getCustomersContainsLetterInName("c");
