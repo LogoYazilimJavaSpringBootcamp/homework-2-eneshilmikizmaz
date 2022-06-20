@@ -13,3 +13,6 @@ Struct, Vaadin). Örnekler ile açıklayın. (20 Puan)
 patterni ile oluşacak şekilde düzenleyin. (25 Puan)
 
 • Singleton ve AbstractFactory patterlerini implemente eden kodu yazın.(25 Puan)
+
+
+_**• Cevaplar ANSWERS.md dosyasının içindedir.**_
